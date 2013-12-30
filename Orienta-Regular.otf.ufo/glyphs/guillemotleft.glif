@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="1">
+  <advance width="505"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="50" y="337" type="line" name="hr00"/>
+      <point x="50" y="309" type="line"/>
+      <point x="194" y="121" type="line"/>
+      <point x="248" y="158" type="line"/>
+      <point x="154" y="323" type="line"/>
+      <point x="248" y="488" type="line"/>
+      <point x="194" y="525" type="line"/>
+    </contour>
+    <contour>
+      <point x="257" y="337" type="line"/>
+      <point x="257" y="309" type="line"/>
+      <point x="401" y="121" type="line"/>
+      <point x="455" y="158" type="line"/>
+      <point x="361" y="323" type="line"/>
+      <point x="455" y="488" type="line"/>
+      <point x="401" y="525" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="142" width="-21" />
+      <hstem pos="525" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
